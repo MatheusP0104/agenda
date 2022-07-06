@@ -1,4 +1,3 @@
-from operator import le
 from classe_contato import *
 
 class Agenda:
